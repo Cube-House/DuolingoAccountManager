@@ -7,6 +7,12 @@ For assistance, support, or to learn more about our projects, join our community
 
 **[Join our Discord server](https://discord.gg/BS7AD7GJg7)**
 
+> [!IMPORTANT]
+> **Read all** documents in this repo before doing anything!
+> 
+> - **Don't make this to your own tool**
+> - **Dont share your TOKEN to anyone**
+> - Don't forget to star ⭐ this repository
 Here, you can connect with our team and other users, get help, and stay updated on our latest developments.
 ## Introduction
 
