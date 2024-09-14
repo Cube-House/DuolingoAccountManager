@@ -13,7 +13,7 @@ For assistance, support, or to learn more about our projects, join our community
 > - **Don't make this to your own tool**
 > - **Dont share your TOKEN to anyone**
 > - Don't forget to star ⭐ this repository
-Here, you can connect with our team and other users, get help, and stay updated on our latest developments.
+Here, you can connect with our team and other users, get help, and stay updated on our latest developments and good man.
 ## Introduction
 
 Welcome to our cutting-edge token-based account management system. This solution offers a modern, secure approach to user authentication, eliminating traditional passwords and enhancing security. With a sleek, intuitive graphical user interface, our system provides an excellent user experience.
