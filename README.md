@@ -1,4 +1,4 @@
-##Duolingo Account Manager
+**Duolingo Account Manager**
 
 Duolingo Account Manager is the best account management tool in Duolingo.
 
@@ -12,7 +12,7 @@ Check our code [on Github](https://github.com/Cube-House/DuolingoAccountManager)
 
 **Elegant Interface**: Enjoy a beautifully designed, intuitive GUI that simplifies user interactions and improves overall experience.
 
-##Images:
+**Images**:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bingcube/source/refs/heads/main/icon.png" alt="UI">
